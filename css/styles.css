@@ -1,0 +1,22 @@
+/* header */
+.jumbotron {
+  background-color: #a2a4b7;
+  margin: 0;
+}
+.jumbotron h1.display-4 {
+  color: white;
+}
+
+.jumbotron {
+  border-radius: 0px;
+}
+/* nav */
+.navbar-brand {
+  margin: 0;
+}
+
+/* main */
+.col {
+  height: 500px;
+  text-align: center;
+}
